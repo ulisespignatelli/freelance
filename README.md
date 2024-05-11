@@ -1,6 +1,6 @@
-## Sitio de Desarrollo Web Freelancer
+# Sitio de Desarrollo Web Freelancer
 
-# Desarrollado con:
+## Desarrollado con:
 
 - HTML
 - CSS
